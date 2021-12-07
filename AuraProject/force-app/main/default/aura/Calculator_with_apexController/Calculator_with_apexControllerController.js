@@ -17,6 +17,7 @@
                           component.set("v.result", valueFromResp);    
                           }
                            });
+        //a faire lors de toutes les appels APEX, pour pouvoir regrouper les appels et les queues après 
         $A.enqueueAction(action);
 	}
 })
