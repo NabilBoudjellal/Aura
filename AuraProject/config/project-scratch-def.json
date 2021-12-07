@@ -3,6 +3,7 @@
   "edition": "Developer",
   "features": ["EnableSetPasswordInApi"],
   "language": "en_US",
+  "hasSampleData": true,
   "settings": {
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true
