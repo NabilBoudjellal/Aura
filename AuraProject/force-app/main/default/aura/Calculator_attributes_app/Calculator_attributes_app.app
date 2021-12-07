@@ -1,3 +1,3 @@
 <aura:application >
-	    <c:Calculator/>
+		    <c:Calculator_attributes/>
 </aura:application>
